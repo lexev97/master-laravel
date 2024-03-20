@@ -1,7 +1,6 @@
 # Master Laravel for Beginners & Intermediate 2024 (54 hours)
 
-## Skils
-
+### Skils:
 - Laravel Setup: Learn how to setup and configure Laravel.
 - MVC Architecture: Understand Laravel's MVC design pattern.
 - Routing: Master Laravel's critical routing system.
@@ -13,8 +12,7 @@
 - Front-end Integration: Integrate Laravel with front-end libraries.
 - Real-world Apps: Create five practical projects in Laravel.
 
-## Course projects:
-
+### Course projects:
 - Task List
 - Book Reviews
 - Event Management API
