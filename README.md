@@ -17,4 +17,4 @@
 - Book Reviews
 - Event Management API
 - Livewire Poll App
-- Job Portal (our most extensive project)
+- Job Portal (most extensive project)
