@@ -30,7 +30,7 @@
 
 					<x-radio-group name="category" :options="\App\Models\Job::$category" />
 				</div>
-			</div>121. Employer: Model, Migration, Relations
+			</div>
 			<x-button class="w-full">Filter</x-button>
 		</form>
 	</x-card>
